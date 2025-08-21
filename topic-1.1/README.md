@@ -1,11 +1,11 @@
-# APCSA Unit 1 Exercises
+# APCSA Topic 1.1 Exercises
 
 ## Abreviations
 
 * Learning Objective (LO)
 * Essential Knowledge (EK)
 
-## Ex 1.1 Fix Whitespace
+## Ex 1 - Fix Whitespace
 
 Edit the file `HelloWhiteSpace.java`
 
@@ -14,7 +14,9 @@ Edit the file `HelloWhiteSpace.java`
 
 Try compiling the file before fixing it. What happens? What error messages do you see?
 
-## Ex 1.2 Print Multple Lines
+## Ex 2 - Print Multple Lines
+
+Edit the file `PrintLines.java`
 
 Add only two *statements* as a *sequence* (EO 1.1.A.2) in order:
 
@@ -29,12 +31,15 @@ Print the following output:
     we print output
     on multiple lines.
 
+## Ex 3 - LogicError
 
-## Ex 1.3 LogicError
+Edit the file `LogicError.java`
 
 Fix the code so that it make logical sense.
 
-## Ex 1.4 RunTimeError
+## Ex 4 - RunTimeError
+
+Edit the file `RunTimeError.java`
 
 Fix the code so that it does not fail at *run-time* by throwing an *exception*
 
