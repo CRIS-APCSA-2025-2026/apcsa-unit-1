@@ -10,12 +10,13 @@
 
 * **1.2.A.3** — Reference types are used for objects that are not primitives.
 
-* **1.2.B.1** — This course uses three primitive types:
+* **1.2.B.1** — This course uses these primitive types:
   - `int`: whole numbers (integers)
   - `double`: numbers with decimals (real numbers)
   - `boolean`: values `true` or `false`
+  - `char`: values as a single character
 
-  > Note: Other primitive types (`long`, `short`, `byte`, `float`, `char`)
+  > Note: Other primitive types (`long`, `short`, `byte`, `float`)
     are **not included** in APCSA.
 
 * **1.2.B.2** — A variable is a named storage location for a value in memory.
@@ -42,7 +43,7 @@ Read *Think Java 2*, Sections 2.1 & 2.2.
 
 Replace `<type>` with the most appropriate data type for each description:
 
-1. The number of planets in the solar system: <type>
+1. The number of planets in the solar system: <int>
 
 2. It is currently raining outside: <type>
 
@@ -57,7 +58,6 @@ Replace `<type>` with the most appropriate data type for each description:
 7. Average score rounded to the nearest whole point: <type>
 
 8. The "at" symbol used in an email address: <type>
-
 
 * **1.2.B** — Write code that declares variables for numbers (`int`, `double`) and logical values (`boolean`).
 
