@@ -2,15 +2,25 @@
 
 ## Essential Knowledge
 
-* **1.2.A.1** — A data type is a category of values and the operations that can be
-  done with them. Data types are either **primitive** or **reference**.
+### 1.2.A.1 Data Types
 
-* **1.2.A.2** — Primitive data types in this course represent numbers and
-  *Boolean* (`true` or `false`) values.
+A data type is a category of values and the operations that can be
+done with them. Data types are either **primitive** or **reference**.
 
-* **1.2.A.3** — Reference types are used for objects that are not primitives.
+### 1.2.A.2 Primitives
 
-* **1.2.B.1** — This course uses these primitive types:
+Primitive data types in this course represent numbers and
+
+*Boolean* (`true` or `false`) values.
+
+### 1.2.A.3 References
+
+Reference types are used for objects that are not primitives.
+
+### 1.2.B.1 Primitive types
+
+This course uses these primitive types:
+
   - `int`: whole numbers (integers)
   - `double`: numbers with decimals (real numbers)
   - `boolean`: values `true` or `false`
@@ -19,11 +29,14 @@
   > Note: Other primitive types (`long`, `short`, `byte`, `float`)
     are **not included** in APCSA.
 
-* **1.2.B.2** — A variable is a named storage location for a value in memory.
-  Values can change at *run-time*. A variable’s type determines what kind of
-  value it can hold.
+### 1.2.B.2 Variables
 
-### APCSA Topic 1.2 — Data Types
+A variable is a named storage location for a value in memory.
+
+Values can change at *run-time*. A variable’s type determines what kind of
+value it can hold.
+
+#### APCSA Data Types
 
 | Type     | Category   | Description                     | Example Literal   | Notes                                  |
 |----------|------------|---------------------------------|-------------------|----------------------------------------|
@@ -35,11 +48,13 @@
 
 ## Reading
 
-Read *Think Java 2*, Sections 2.1 & 2.2.
+🕮 Read *Think Java 2*, Sections 2.1 & 2.2.
 
 ## Excercises
 
-* **1.2.A** — Choose the correct data type (primitive or reference) based on a program’s needs.  
+### 1.2.A Data Type Excercise
+
+Choose the correct data type (primitive or reference) based on a program’s needs.  
 
 Replace `<type>` with the most appropriate data type for each description:
 
@@ -59,7 +74,9 @@ Replace `<type>` with the most appropriate data type for each description:
 
 8. The "at" symbol used in an email address: <type>
 
-* **1.2.B** — Write code that declares variables for numbers (`int`, `double`) and logical values (`boolean`).
+### 1.2.B Variables, Numbers & Booleans Excercise
+
+Write code that declares variables for numbers (`int`, `double`) and logical values (`boolean`).
 
 Edit the file `VariableDeclarations.java`
 

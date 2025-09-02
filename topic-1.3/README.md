@@ -107,11 +107,20 @@ The `%` operator finds the remainder when `a` is divided by `b`.
 ---
 
 **Key Idea 1.3.C.5**  
-Operators follow rules of precedence:
+Operators follow rules of precedence (order of operations):
 
 - `*`, `/`, and `%` are done before `+` and `-`.  
 - Operators with the same precedence are done left to right.  
 - Parentheses `()` can be used to change the order.  
+
+## Table of Precedence (highest to lowest)
+
+| Operators     | Notes                                                   |
+|---------------|---------------------------------------------------------|
+| `()`          | Forces expression inside to be evaluated first          |
+| `+`, `-` (unary) | Positive/negative signs applied to a single value     |
+| `*`, `/`, `%` | Multiplication, division, remainder (left to right)     |
+| `+`, `-`      | Addition and subtraction (left to right)                |
 
 ---
 
