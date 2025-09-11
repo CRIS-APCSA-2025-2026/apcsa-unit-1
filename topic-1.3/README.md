@@ -1,7 +1,5 @@
 # APCSA Topic 1.3 - Expressions and Output
 
-## Essential Knowledge
-
 **Learning Objective 1.3.A**  
 Write *statements* to produce output. Analyze the code to determine the results that would be displayed.  
 

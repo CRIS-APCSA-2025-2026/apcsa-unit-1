@@ -44,3 +44,28 @@ Programs can get input in many ways. In Java, the `Scanner` class can read text 
 * `.nextInt()` - reads whole numbers (int)
 * `.nextDouble()` - reads decimal numbers (double)
 * Always remember `input.close()` at the end
+
+#### Excercise 1.4.B.1 #1
+
+Modify `InputDemo.java` to print:
+
+    You are currently <age> years old.
+    Next year, you will be <nextAge> years old.
+
+#### Excercise 1.4.B.1 #2
+
+Write a program `AverageAge.java` that prompts the user
+
+* for the total age of all students combined
+* the number of students
+
+Then print the average age.
+
+    Enter the total age of students: <total>
+    Enter the number of students: <count>
+    The average age is: <average>
+
+Hint: make a copy of `InputDemo.java` and modify it.
+
+    cd topic-1.4
+    cp InputDemo.java AverageAge.java
