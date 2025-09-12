@@ -15,7 +15,7 @@ public class TemperatureConverter {
         // Students complete:
         // 1. Convert to Fahrenheit (exact)
         // 2. Round to nearest degree (print as a whole number)
-        // 3. Display both results
+        // 3. Display both results (double and int)
         
         input.close();
     }
