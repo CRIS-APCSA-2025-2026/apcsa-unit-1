@@ -1,4 +1,4 @@
-# Topic 1.6 Compound Assignment Operators (Restated)
+# Topic 1.6 Compound Assignment Operators
 
 ## Learning Objective 1.6.A
 
